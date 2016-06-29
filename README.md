@@ -15,3 +15,8 @@ circumflex - circumflex rules
 
 json_pasvow - augmentum rules
 
+convtest.txt - output of converter_last.py, verbs
+
+convtest_nouns.txt - output of converter_last.py, nouns
+
+paradigms - all paradigms for katharevousa
